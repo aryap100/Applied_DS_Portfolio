@@ -1,93 +1,121 @@
-# Applied_DS_Portfolio
+🎓 Program Learning Outcomes
 
-👋 About
+The Applied Data Science program focuses on building end-to-end capabilities in data collection, modeling, and communication of insights across real-world domains. The program emphasizes technical depth in machine learning and data engineering while also developing the ability to translate analytical results into actionable decisions.
 
-I am an Applied Data Science graduate student at Syracuse University with a strong focus on machine learning, data engineering, and real-world analytics applications. I enjoy transforming raw data into actionable insights that support better decision-making in business, healthcare, and urban systems.
+This portfolio demonstrates these outcomes through four applied projects across recommendation systems, urban analytics, healthcare economics, and data engineering.
 
-My interests lie in building scalable data solutions, predictive models, and intelligent systems across domains such as healthcare analytics, transportation safety, recommendation systems, and data warehousing.
+💡 FEATURED PROJECTS
 
-💼 Experience
-Data Science & Analytics Projects
+Each project demonstrates a complete data science lifecycle:
+data collection → storage → modeling → visualization → insight communication
 
-Syracuse University / Independent Projects
+🎵 Emotion-Based Spotify Neural Network Recommendation System
 
-Working on end-to-end machine learning and analytics projects involving real-world datasets in healthcare, mobility, audio intelligence, and data warehousing. Focused on model development, feature engineering, data pipelines, and visualization.
+**GitHub Repo:** [Spotify Recommendation System](https://github.com/aryap100/Spotify-rec)
 
-🚀 Projects
-🎵 Spotify Neural Network Recommendation System
+### 🔹 Tech Stack
+`Python` `TensorFlow/Keras` `Pandas` `NumPy` `Scikit-learn`
 
-Deep Learning | Neural Networks | Music Recommendation
 
-Built a neural network-based recommendation system to predict user music preferences using audio features and metadata.
-Engineered features from Spotify track attributes such as tempo, energy, danceability, and valence.
-Developed a deep learning model to learn latent representations of songs and users for improved recommendation accuracy.
-Evaluated model performance using precision, recall, and ranking-based metrics.
-Explored embedding techniques to capture similarity between tracks for personalized music discovery.
+🧠 Deep Learning • 🎧 Recommendation Systems • 📊 Feature Engineering
 
-Tools: Python, TensorFlow/Keras, Pandas, NumPy, Scikit-learn
+🔹 Problem
+
+How can we model user music preferences using facial emotion recognition to generate personalized recommendations?
+
+🔹 Approach
+Built a neural network-based recommendation system using song-level audio features
+Engineered features such as tempo, energy, valence, and danceability
+Learned latent embeddings to model similarity between users and tracks
+Applied deep learning methods to capture nonlinear preference behavior
+🔹 Impact & Program Alignment
+
+✔ Demonstrates Actionable Insights Across Contexts by enabling personalized recommendation systems in the entertainment domain
+✔ Applies Visualization and Predictive Modeling through neural networks and embedding-based similarity learning
+✔ Uses Python and ML libraries such as TensorFlow and Scikit-learn
+✔ Considers Ethics in data-driven systems, including potential bias in recommendation algorithms and fairness in personalization
+
+🔹 Skills
+
+Python · TensorFlow/Keras · Pandas · Neural Networks · Scikit-learn
 
 🚗 NYC Car Crash Analysis & Prediction
 
-Data Analytics | Geospatial Analysis | Machine Learning
+**GitHub Repo:** [NYC Car Crash Analysis and Prediction](https://github.com/SU-IST707-SP26/group-project-crash-predictors)
 
-Analyzed NYC motor vehicle collision dataset to identify high-risk locations, time patterns, and contributing factors.
-Performed extensive data cleaning and geospatial mapping to detect accident hotspots across boroughs.
-Built predictive models to estimate accident severity based on time, location, and environmental conditions.
-Created visual dashboards to communicate accident trends and safety insights.
-Derived actionable insights for urban safety and traffic management improvements.
+🗺️ Geospatial Analytics • 🚦 Classification Models • 📍 Urban Data Science
 
-Tools: Python, Pandas, Matplotlib, Seaborn, GeoPandas, Scikit-learn
+🔹 Problem
+
+What spatial, temporal, and environmental factors contribute to vehicle collisions in New York City, and can severity be predicted?
+
+🔹 Approach
+Collected and cleaned NYC motor vehicle collision datasets
+Performed geospatial hotspot analysis across boroughs
+Engineered temporal and environmental risk features
+Built classification models to predict crash severity
+🔹 Impact & Program Alignment
+
+✔ Demonstrates Data Collection, Storage, and Access through large-scale geospatial dataset cleaning and integration
+✔ Produces Actionable Insights Across Contexts, supporting urban safety and transportation planning
+✔ Applies Visualization and Predictive Modeling using geospatial heatmaps and classification algorithms
+✔ Uses Python-based analytics workflows for full data pipeline development
+✔ Reflects Ethical Data Use, emphasizing responsible interpretation of public safety data
+
+🔹 Skills
+
+Python · GeoPandas · Scikit-learn · Matplotlib · Seaborn
 
 🏥 Healthcare Inflation Analysis
 
-Time Series | Econometrics | Data Visualization
+**GitHub Repo:** [Healthcare Analysis](https://github.com/aryap100/healthcare_inflation_analysis)
 
-Investigated healthcare cost inflation trends over time using CPI and medical expenditure datasets.
-Conducted time-series decomposition to understand seasonal and long-term inflation trends.
-Compared healthcare inflation against general inflation to quantify cost divergence.
-Built regression models to analyze drivers of healthcare cost growth.
-Produced visual storytelling dashboards highlighting affordability trends in healthcare.
+📈 Time Series Analysis • 💰 Econometrics • 📊 Policy Analytics
 
-Tools: Python, Statsmodels, Pandas, Tableau / Power BI, Matplotlib
+🔹 Problem
+
+How has healthcare inflation evolved compared to general inflation, and what factors drive its long-term increase?
+
+🔹 Approach
+Integrated multiple economic datasets including CPI and healthcare expenditure data
+Conducted time-series decomposition and trend analysis
+Built regression models to identify key cost drivers
+Compared healthcare inflation trends against general inflation benchmarks
+🔹 Impact & Program Alignment
+
+✔ Demonstrates Data Collection, Storage, and Access through integration of multi-source economic datasets
+✔ Produces Actionable Insights Across Contexts, particularly in healthcare economics and policy
+✔ Applies Visualization and Predictive Modeling through regression and time-series analysis
+✔ Uses Python for data transformation, modeling, and visualization
+✔ Reflects Ethical Awareness, emphasizing socioeconomic implications of healthcare affordability and cost inequality
+
+🔹 Skills
+
+Python · Statsmodels · Pandas · Matplotlib · Regression Analysis
 
 🏢 Data Warehouse & Business Intelligence System
 
-Data Engineering | SQL | Power BI | ETL
+🔗 GitHub: (add link if available)
 
-Designed and implemented a relational data warehouse schema for structured business analytics.
-Built ETL pipelines to clean, transform, and load transactional data into a centralized warehouse.
-Developed interactive Power BI dashboards for business performance tracking.
-Applied dimensional modeling techniques (star schema) for optimized querying and reporting.
-Enabled decision-making through KPI tracking and business intelligence reporting.
+🏗️ Data Engineering • 🗄️ SQL • 📊 Business Intelligence
 
-Tools: SQL, Microsoft SQL Server, Power BI, Python, ETL pipelines
+🔹 Problem
 
-🎓 Education
-Syracuse University
+How can structured data storage and modeling improve business reporting efficiency and decision-making?
 
-Master of Science in Applied Data Science / Information Management
-GPA: 3.95 / 4.0
+🔹 Approach
+Designed a relational data warehouse using dimensional modeling (star schema)
+Built ETL pipelines to extract, transform, and load structured data
+Developed SQL queries for analytical reporting
+Created Power BI dashboards for KPI tracking and business insights
+🔹 Impact & Program Alignment
 
-Relevant Coursework:
-Machine Learning, Deep Learning, Data Warehousing, Big Data Analytics, Information Systems, Applied Data Science
+✔ Demonstrates Data Collection, Storage, and Access through SQL-based warehouse design and ETL pipelines
+✔ Generates Actionable Insights Across Contexts via business intelligence reporting
+✔ Applies Visualization and Predictive Modeling using KPI dashboards and structured analytics
+✔ Uses SQL and Python for data engineering workflows
+✔ Reflects Ethical Data Practices, ensuring data integrity, transparency, and reproducibility in reporting systems
 
-University of Mumbai
+🔹 Skills
 
-Bachelor of Technology in Computer Engineering
-GPA: 7.33 / 10
-
-Relevant Coursework:
-Data Structures, DBMS, OOP, Software Engineering, Algorithms
-
-🧠 Skills
-
-Programming: Python, SQL, R (optional)
-Machine Learning: Scikit-learn, TensorFlow, Neural Networks
-Data Tools: Pandas, NumPy, Spark
-Visualization: Power BI, Tableau, Matplotlib, Seaborn
-Databases: MySQL, SQL Server
-Workflow: Git, Agile, Data Pipelines, ETL
-
-🏆 Awards & Certifications
-Syracuse University Information Management Faculty Engagement Scholarship
-ZS Associates Certificate of Appreciation (Rapid skill acquisition in new programming language)
+SQL · ETL · Power BI · Data Modeling · Microsoft SQL Server
