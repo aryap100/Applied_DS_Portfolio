@@ -4,8 +4,6 @@ The Applied Data Science program focuses on building end-to-end capabilities in 
 
 This portfolio demonstrates these outcomes through four applied projects across recommendation systems, urban analytics, healthcare economics, and data engineering.
 
----
-
 # 💡 FEATURED PROJECTS
 
 > Each project demonstrates a complete data science lifecycle:  
@@ -17,22 +15,18 @@ This portfolio demonstrates these outcomes through four applied projects across 
 
 **GitHub Repo:** [Spotify Recommendation System](https://github.com/aryap100/Spotify-rec)
 
----
 
 ### 🧠 Tech Stack
 `Python` `TensorFlow/Keras` `Pandas` `NumPy` `Scikit-learn`
 
----
 
 ### 🎧 Deep Learning • Recommendation Systems • Feature Engineering
 
----
 
 ### 🔹 Problem
 
 How can we model user music preferences using facial emotion recognition to generate personalized recommendations?
 
----
 
 ### 🔹 Approach
 
@@ -41,7 +35,6 @@ How can we model user music preferences using facial emotion recognition to gene
 - Learned latent embeddings to model similarity between users and tracks  
 - Applied deep learning methods to capture nonlinear preference behavior  
 
----
 
 ### 🔹 Impact & Program Alignment
 
@@ -50,7 +43,6 @@ How can we model user music preferences using facial emotion recognition to gene
 ✔ Uses **Python and ML libraries** such as TensorFlow and Scikit-learn  
 ✔ Considers **Ethics in data-driven systems**, including potential bias in recommendation algorithms and fairness in personalization  
 
----
 
 ### 🔹 Skills
 
@@ -62,17 +54,14 @@ How can we model user music preferences using facial emotion recognition to gene
 
 **GitHub Repo:** [NYC Car Crash Analysis and Prediction](https://github.com/SU-IST707-SP26/group-project-crash-predictors)
 
----
 
 ### 🗺️ Geospatial Analytics • 🚦 Classification Models • 📍 Urban Data Science
 
----
 
 ### 🔹 Problem
 
 What spatial, temporal, and environmental factors contribute to vehicle collisions in New York City, and can severity be predicted?
 
----
 
 ### 🔹 Approach
 
@@ -81,7 +70,6 @@ What spatial, temporal, and environmental factors contribute to vehicle collisio
 - Engineered temporal and environmental risk features  
 - Built classification models to predict crash severity  
 
----
 
 ### 🔹 Impact & Program Alignment
 
@@ -91,7 +79,6 @@ What spatial, temporal, and environmental factors contribute to vehicle collisio
 ✔ Uses Python-based analytics workflows for full data pipeline development  
 ✔ Reflects **Ethical Data Use**, emphasizing responsible interpretation of public safety data  
 
----
 
 ### 🔹 Skills
 
@@ -103,17 +90,14 @@ What spatial, temporal, and environmental factors contribute to vehicle collisio
 
 **GitHub Repo:** [Healthcare Analysis](https://github.com/aryap100/healthcare_inflation_analysis)
 
----
 
 ### 📈 Time Series Analysis • 💰 Econometrics • 📊 Policy Analytics
 
----
 
 ### 🔹 Problem
 
 How has healthcare inflation evolved compared to general inflation, and what factors drive its long-term increase?
 
----
 
 ### 🔹 Approach
 
@@ -121,8 +105,6 @@ How has healthcare inflation evolved compared to general inflation, and what fac
 - Conducted time-series decomposition and trend analysis  
 - Built regression models to identify key cost drivers  
 - Compared healthcare inflation trends against general inflation benchmarks  
-
----
 
 ### 🔹 Impact & Program Alignment
 
@@ -132,7 +114,6 @@ How has healthcare inflation evolved compared to general inflation, and what fac
 ✔ Uses Python for data transformation, modeling, and visualization  
 ✔ Reflects **Ethical Awareness**, emphasizing socioeconomic implications of healthcare affordability and cost inequality  
 
----
 
 ### 🔹 Skills
 
@@ -144,17 +125,14 @@ How has healthcare inflation evolved compared to general inflation, and what fac
 
 **GitHub:** (add link if available)
 
----
 
 ### 🏗️ Data Engineering • 🗄️ SQL • 📊 Business Intelligence
 
----
 
 ### 🔹 Problem
 
 How can structured data storage and modeling improve business reporting efficiency and decision-making?
 
----
 
 ### 🔹 Approach
 
@@ -163,7 +141,6 @@ How can structured data storage and modeling improve business reporting efficien
 - Developed SQL queries for analytical reporting  
 - Created Power BI dashboards for KPI tracking and business insights  
 
----
 
 ### 🔹 Impact & Program Alignment
 
@@ -173,8 +150,9 @@ How can structured data storage and modeling improve business reporting efficien
 ✔ Uses SQL and Python for data engineering workflows  
 ✔ Reflects **Ethical Data Practices**, ensuring data integrity, transparency, and reproducibility in reporting systems  
 
----
 
 ### 🔹 Skills
 
 **SQL · ETL · Power BI · Data Modeling · Microsoft SQL Server**
+
+---
