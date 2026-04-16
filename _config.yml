@@ -1,3 +1,10 @@
-title: Arya Patil
-show_downloads: true
-remote_theme: mmistakes/minimal-mistakes
+title: "Arya Patil"
+description: "Data Science & AI Portfolio"
+
+remote_theme: hydecorp/hydejack
+
+plugins:
+  - jekyll-include-cache
+
+hydejack:
+  no_google_fonts: false
