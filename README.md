@@ -27,6 +27,7 @@ The goal of this project is to develop an emotion-driven music recommender syste
 - Applies Deep Learning and Predictive Modeling through CNN-based emotion classification using TensorFlow
 - Utilizes Python and modern ML frameworks, primarily TensorFlow, for building and deploying the model pipeline
 - Considers Ethical Implications, including bias in emotion recognition models and fairness in recommendation outputs
+  
 ---
 
 # 🚗 NYC Car Crash Analysis & Prediction
@@ -47,7 +48,8 @@ The goal of this project is to create a model which can better predict the spati
 - Produces **Actionable Insights Across Contexts**, supporting urban safety and transportation planning  
 - Applies **Visualization and Predictive Modeling** using geospatial heatmaps and classification algorithms  
 - Uses Python-based analytics workflows for full data pipeline development  
-- Reflects **Ethical Data Use**, emphasizing responsible interpretation of public safety data  
+- Reflects **Ethical Data Use**, emphasizing responsible interpretation of public safety data
+  
 ---
 
 # 🏥 Northwind Database Creation and Visualization
@@ -70,37 +72,30 @@ The goal of this project is to design and implement a data warehouse that transf
 - Produces **Actionable Insights Across Contexts**, particularly in healthcare economics and policy  
 - Applies **Visualization and Predictive Modeling** through regression and time-series analysis  
 - Uses Python for data transformation, modeling, and visualization  
-- Reflects **Ethical Awareness**, emphasizing socioeconomic implications of healthcare affordability and cost inequality  
+- Reflects **Ethical Awareness**, emphasizing socioeconomic implications of healthcare affordability and cost inequality
+  
 ---
 
-# 🏢 Data Warehouse & Business Intelligence System
+# 🏢 Hospital Data Warehouse & Business Intelligence System
 
 **GitHub:** (add link if available)
 
-### 🔹 Problem
+### 🔹 Summary and Approach
 
-How can structured data storage and modeling improve business reporting efficiency and decision-making?
+The primary objective of this project is to establish an efficient emergency transportation system for hospitals to streamline the tracking of patient inflow and outflow across various regions. This system will enable hospital administration to monitor patient pickup and admittance times, ensuring patients are quickly directed to the nearest facility based on their location. 
 
-
-### 🔹 Approach
-
-- Designed a relational data warehouse using dimensional modeling (star schema)  
-- Built ETL pipelines to extract, transform, and load structured data  
-- Developed SQL queries for analytical reporting  
-- Created Power BI dashboards for KPI tracking and business insights  
-
+- Designed an ERD with entities such as Patients, EMTs, Drivers, Hospitals, and Vehicles
+- Built a star schema with fact and dimension tables for analytical querying
+- Developed ETL processes in SQL to clean and integrate operational data
+- Created key metrics like response time, transport duration, and hospital utilization
+- Connected the warehouse to BI tools for interactive analysis and monitoring
 
 ### 🔹 Impact & Program Alignment
 
-✔ Demonstrates **Data Collection, Storage, and Access** through SQL-based warehouse design and ETL pipelines  
-✔ Generates **Actionable Insights Across Contexts** via business intelligence reporting  
-✔ Applies **Visualization and Predictive Modeling** using KPI dashboards and structured analytics  
-✔ Uses SQL and Python for data engineering workflows  
-✔ Reflects **Ethical Data Practices**, ensuring data integrity, transparency, and reproducibility in reporting systems  
-
-
-### 🔹 Skills
-
-**SQL · ETL · Power BI · Data Modeling · Microsoft SQL Server**
+- Demonstrates Data Collection, Storage, and Access through ETL and data warehousing
+- Applies Data Modeling using ERDs and star schema design
+- Produces Actionable Insights on emergency response and hospital efficiency
+- Uses SQL and BI tools for analysis and visualization
+- Reflects Real-World Systems Thinking in healthcare logistics and resource allocation
 
 ---
