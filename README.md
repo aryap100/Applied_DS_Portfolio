@@ -1,16 +1,19 @@
+
 # 🎓 Program Learning Outcomes
 
 The Applied Data Science program focuses on building end-to-end capabilities in data collection, modeling, and communication of insights across real-world domains. The program emphasizes technical depth in machine learning and data engineering while also developing the ability to translate analytical results into actionable decisions.
 
-This portfolio demonstrates these outcomes through four applied projects across recommendation systems, urban analytics, healthcare economics, and data engineering.
-
-# 💡 FEATURED PROJECTS
+This portfolio demonstrates these outcomes through four applied projects across recommendation systems, urban analytics, healthcare, and data engineering.
 
 ---
 
-# 🎵 Emotion-Based Spotify Neural Network Recommendation System
+# 💡 FEATURED PROJECTS
 
-**GitHub Repo:** [Spotify Recommendation System](https://github.com/aryap100/Spotify-rec)
+## 🎵 Emotion-Based Spotify Neural Network Recommendation System
+
+> ### 🔗 GitHub Repository
+> Project Codebase:  
+> [Spotify Recommendation System](https://github.com/aryap100/Spotify-rec)
 
 ### 🔹 Summary and Approach
 
@@ -30,9 +33,11 @@ The goal of this project is to develop an emotion-driven music recommender syste
   
 ---
 
-# 🚗 NYC Car Crash Analysis & Prediction
+## 🚗 NYC Car Crash Analysis & Prediction
 
-**GitHub Repo:** [NYC Car Crash Analysis and Prediction](https://github.com/SU-IST707-SP26/group-project-crash-predictors)
+> ### 🔗 GitHub Repository
+> Project Codebase:  
+> [NYC Car Crash Analysis and Prediction](https://github.com/SU-IST707-SP26/group-project-crash-predictors))
 
 ### 🔹 Summary and Approach
 
@@ -52,9 +57,11 @@ The goal of this project is to create a model which can better predict the spati
   
 ---
 
-# 🏥 Northwind Database Creation and Visualization
+## 🏥 Northwind Database Creation and Visualization
 
-**GitHub Repo:** [Business_Intelligence_Northwind_Database](https://github.com/aryap100/healthcare_inflation_analysis)
+> ### 🔗 GitHub Repository
+> Project Codebase:  
+> [Business_Intelligence_Northwind_Database](https://github.com/aryap100/healthcare_inflation_analysis)
 
 ### 🔹 Summary and Approach
 
@@ -78,7 +85,9 @@ The goal of this project is to design and implement a data warehouse that transf
 
 # 🏢 Hospital Data Warehouse & Business Intelligence System
 
-**GitHub:** (add link if available)
+> ### 🔗 GitHub Repository
+> Project Codebase:  
+> [Business_Intelligence_Northwind_Database](https://github.com/aryap100/healthcare_inflation_analysis)
 
 ### 🔹 Summary and Approach
 
