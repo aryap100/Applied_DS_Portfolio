@@ -1,4 +1,7 @@
+---
 layout: home
+title: Home
+---
 
 ## Program Learning Outcomes
 
