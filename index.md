@@ -1,5 +1,4 @@
 ---
-layout: home
 title: Home
 ---
 
@@ -25,8 +24,8 @@ The goal of this project is to develop an emotion-driven music recommender syste
 - Built a CNN using TensorFlow for facial emotion classification  
 - Processed real-time image and video input  
 - Mapped emotions to curated music recommendations  
-- Designed an end-to-end ML pipeline  
-
+- Designed an end-to-end ML pipeline
+  
 ### 🔹 Impact & Program Alignment
 - Demonstrates real-time predictive ML using deep learning  
 - Applies CNN-based emotion classification with TensorFlow  
