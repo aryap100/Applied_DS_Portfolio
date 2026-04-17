@@ -1,8 +1,8 @@
 ---
-title: Home
+title: Portfolio
 ---
 
-## Program Learning Outcomes
+## 🎓 Program Learning Outcomes
 
 The Applied Data Science program focuses on building end-to-end capabilities in data collection, modeling, and communication of insights across real-world domains. The program emphasizes technical depth in machine learning and data engineering while also developing the ability to translate analytical results into actionable decisions.
 
@@ -10,80 +10,99 @@ This portfolio demonstrates these outcomes through four applied projects across 
 
 ---
 
-# Featured Projects
+# 💡 FEATURED PROJECTS
+
+## 🎵 Emotion-Based Spotify Neural Network Recommendation System
+
+### 🔗 GitHub Repository  
+**Project Codebase:** [Spotify Recommendation System](https://github.com/aryap100/Spotify-rec)
+
+### 🔹 Summary and Approach
+
+The goal of this project is to develop an emotion-driven music recommender system that detects a user’s facial emotion through webcam video or image upload and recommends music tracks aligned with their emotional state.
+
+- Built a convolutional neural network (CNN) using TensorFlow to classify facial emotions from images and video input  
+- Processed and normalized image data for real-time emotion detection  
+- Mapped predicted emotions to curated music recommendations based on mood categories  
+- Designed an end-to-end pipeline integrating emotion recognition with a personalized recommendation system  
+
+### 🔹 Impact & Program Alignment
+
+- Demonstrates Actionable Insights Across Contexts by translating real-time emotional data into personalized music recommendations  
+- Applies Deep Learning and Predictive Modeling through CNN-based emotion classification using TensorFlow  
+- Utilizes Python and modern ML frameworks, primarily TensorFlow, for building and deploying the model pipeline  
+- Considers Ethical Implications, including bias in emotion recognition models and fairness in recommendation outputs  
 
 ---
 
-## Emotion-Based Spotify Recommendation System
+## 🚗 NYC Car Crash Analysis & Prediction
 
-### 🔗 GitHub Repository: [Spotify Recommendation System](https://github.com/aryap100/Spotify-rec)
+### 🔗 GitHub Repository  
+**Project Codebase:** [NYC Car Crash Analysis and Prediction](https://github.com/SU-IST707-SP26/group-project-crash-predictors)
 
 ### 🔹 Summary and Approach
-The goal of this project is to develop an emotion-driven music recommender system that detects facial emotion using CNNs and recommends songs based on emotional state.
 
-- Built a CNN using TensorFlow for facial emotion classification  
-- Processed real-time image and video input  
-- Mapped emotions to curated music recommendations  
-- Designed an end-to-end ML pipeline
-  
+The goal of this project is to create a model which can better predict the spatial, temporal, and environmental factors contributing to vehicle collisions in New York City.
+
+- Collected and cleaned NYC motor vehicle collision datasets  
+- Performed geospatial hotspot analysis across boroughs  
+- Engineered temporal and environmental risk features  
+- Built various ML models to determine which best accounts for crash severity based on the most essential features  
+
 ### 🔹 Impact & Program Alignment
-- Demonstrates real-time predictive ML using deep learning  
-- Applies CNN-based emotion classification with TensorFlow  
-- Considers bias and fairness in emotion detection systems  
+
+- Demonstrates **Data Collection, Storage, and Access** through large-scale geospatial dataset cleaning and integration  
+- Produces **Actionable Insights Across Contexts**, supporting urban safety and transportation planning  
+- Applies **Visualization and Predictive Modeling** using geospatial heatmaps and classification algorithms  
+- Uses Python-based analytics workflows for full data pipeline development  
+- Reflects **Ethical Data Use**, emphasizing responsible interpretation of public safety data  
 
 ---
 
-## NYC Car Crash Analysis & Prediction
+## 🏥 Northwind Database Creation and Visualization
 
-### 🔗 GitHub Repository: [NYC Crash Analysis](https://github.com/SU-IST707-SP26/group-project-crash-predictors)
+### 🔗 GitHub Repository  
+**Project Codebase:** [Business_Intelligence_Northwind_Database](https://github.com/SU-IST707-SP26/group-project-crash-predictors)
 
 ### 🔹 Summary and Approach
-Predictive system analyzing spatial and temporal factors in NYC vehicle collisions.
 
-- Cleaned and processed large-scale crash dataset  
-- Performed geospatial hotspot analysis  
-- Engineered temporal and environmental features  
-- Built ML models for crash severity prediction  
+The goal of this project is to design and implement a data warehouse that transforms raw Northwind operational data into a structured star schema, enabling efficient analysis of shipment and delivery performance through business intelligence tools.
+
+- Designed a dimensional data model (star schema) centered on shipment and order data  
+- Extracted, cleaned, and transformed raw Northwind transactional data into fact and dimension tables  
+- Built ETL pipelines to ensure consistent, query-optimized data storage  
+- Created calculated measures such as shipping duration, late delivery rate, and total shipments  
+- Integrated the warehouse with Power BI to enable interactive dashboards and time-based analysis  
 
 ### 🔹 Impact & Program Alignment
-- Applies geospatial analytics and predictive modeling  
-- Supports urban safety decision-making  
-- Uses Python-based data science workflows  
+
+- Demonstrates **Data Collection, Storage, and Access** through integration of multi-source economic datasets  
+- Produces **Actionable Insights Across Contexts**, particularly in healthcare economics and policy  
+- Applies **Visualization and Predictive Modeling** through regression and time-series analysis  
+- Uses Python for data transformation, modeling, and visualization  
+- Reflects **Ethical Awareness**, emphasizing socioeconomic implications of healthcare affordability and cost inequality  
 
 ---
 
-## Northwind Data Warehouse & BI System
+# 🏢 Hospital Data Warehouse & Business Intelligence System
 
-### 🔗 GitHub Repository: [Northwind Data Warehouse](https://github.com/aryap100/healthcare_inflation_analysis)
-
-### 🔹 Summary and Approach
-Designed a data warehouse to transform operational data into a structured star schema for analytics.
-
-- Designed star schema (fact + dimension tables)  
-- Built ETL pipelines using SQL  
-- Created KPIs like shipping duration and delivery performance  
-- Connected warehouse to Power BI dashboards  
-
-### 🔹 Impact & Program Alignment
-- Enables efficient analytical querying through warehousing  
-- Improves visibility into operational performance  
-- Demonstrates end-to-end BI workflow  
-
----
-
-## Hospital Emergency Transport BI System
-
-### 🔗 GitHub Repository: [Hospital Data Warehouse](https://github.com/aryap100/healthcare_inflation_analysis)
+### 🔗 GitHub Repository  
+**Project Codebase:** [Business_Intelligence_Northwind_Database](https://github.com/SU-IST707-SP26/group-project-crash-predictors)
 
 ### 🔹 Summary and Approach
-Data warehouse system for tracking emergency medical transport and hospital resource allocation.
 
-- Designed ERD with patients, EMTs, hospitals, vehicles  
-- Built star schema for analytics  
-- Developed ETL pipelines using SQL  
-- Defined KPIs for response time and utilization  
+The goal of this project is to create an efficient emergency transportation system for hospitals to track patient inflow and outflow across regions. This system will enable hospital administration to monitor patient pickup and admittance times, ensuring patients are quickly directed to the nearest facility based on their location.
+
+- Designed an ERD with entities such as Patients, EMTs, Drivers, Hospitals, and Vehicles  
+- Built a star schema with fact and dimension tables for analytical querying  
+- Developed ETL processes in SQL to clean and integrate operational data  
+- Created key metrics like response time, transport duration, and hospital utilization  
+- Connected the warehouse to BI tools for interactive analysis and monitoring  
 
 ### 🔹 Impact & Program Alignment
-- Improves emergency response tracking  
-- Supports hospital decision-making  
-- Applies real-world data engineering lifecycle  
+
+- Demonstrates Data Collection, Storage, and Access through ETL and data warehousing  
+- Applies Data Modeling using ERDs and star schema design  
+- Produces Actionable Insights on emergency response and hospital efficiency  
+- Uses SQL and BI tools for analysis and visualization  
+- Reflects Real-World Systems Thinking in healthcare logistics and resource allocation  
