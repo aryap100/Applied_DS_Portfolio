@@ -105,4 +105,12 @@ The goal of this project is to create an efficient emergency transportation syst
 - Applies Data Modeling using ERDs and star schema design  
 - Produces Actionable Insights on emergency response and hospital efficiency  
 - Uses SQL and BI tools for analysis and visualization  
-- Reflects Real-World Systems Thinking in healthcare logistics and resource allocation  
+- Reflects Real-World Systems Thinking in healthcare logistics and resource allocation
+
+---
+
+# Blog and Video Feedback
+
+## Applied Data Science Blog Post
+[View Full Blog Post (PDF)](https://github.com/aryap100/Applied_DS_Portfolio/blob/main/Applied%20Data%20Science%20Blog%20Post.pdf)
+
