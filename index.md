@@ -38,6 +38,8 @@ The goal of this project is to develop an emotion-driven music recommender syste
 ### 🟠 GitHub Repository  
 **Project Codebase:** [NYC Car Crash Analysis and Prediction](https://github.com/SU-IST707-SP26/group-project-crash-predictors)
 
+📄 Detailed Description: [Predicting Traffic Collision Severity (PDF)](https://github.com/aryap100/Applied_DS_Portfolio/blob/main/%F0%9F%9A%91%20Predicting%20Traffic%20Collision%20Severity%20for%20NYC%20Emergency%20Medical%20Services.pdf)
+
 ### 🔹 Summary and Approach
 
 The goal of this project is to create a model which can better predict the spatial, temporal, and environmental factors contributing to vehicle collisions in New York City.
