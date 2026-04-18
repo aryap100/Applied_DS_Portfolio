@@ -84,10 +84,10 @@ The goal of this project is to design and implement a data warehouse that transf
 
 ---
 
-# Hospital Data Warehouse & Business Intelligence System
+# Hospital Database Management System
 
 ### 🟠 GitHub Repository  
-**Project Codebase and Description:** [Business_Intelligence_Northwind_Database](https://github.com/SU-IST707-SP26/group-project-crash-predictors)
+**Project Codebase and Description:** [Healthcare_Database_Management_System](https://github.com/aryap100/Healthcare_Database_Management_System)
 
 ### 🔹 Summary and Approach
 
