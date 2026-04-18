@@ -93,7 +93,7 @@ The goal of this project is to design and implement a data warehouse that transf
 
 ---
 
-# Hospital Database Management System
+## Hospital Database Management System
 
 ### 🟠 GitHub Repository  
 **Project Codebase and Description:** [Healthcare_Database_Management_System](https://github.com/aryap100/Healthcare_Database_Management_System)
