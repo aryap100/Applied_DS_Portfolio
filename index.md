@@ -111,6 +111,10 @@ The goal of this project is to create an efficient emergency transportation syst
 
 # Blog and Video Feedback
 
-## Applied Data Science Blog Post
+### Applied Data Science Blog Post
 [View Full Blog Post (PDF)](https://github.com/aryap100/Applied_DS_Portfolio/blob/main/Applied%20Data%20Science%20Blog%20Post.pdf)
+
+### Applied Data Science Video Review
+[View Video](https://drive.google.com/file/d/1lw1GT7sEsNYlMrcXxWXzyhJQT76HD9sh/view?usp=drive_link)
+
 
