@@ -62,7 +62,7 @@ The goal of this project is to create a model which can better predict the spati
 ## Northwind Database Creation and Visualization
 
 ### 🟠 GitHub Repository  
-**Project Codebase and Description:** [Business_Intelligence_Northwind_Database](https://github.com/SU-IST707-SP26/group-project-crash-predictors)
+**Project Codebase and Description:** [Business_Intelligence_Northwind_Database](https://github.com/aryap100/Northwind_Business_Intelligence)
 
 ### 🔹 Summary and Approach
 
